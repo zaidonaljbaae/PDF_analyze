@@ -1,0 +1,6 @@
+fitz
+PIL.Image
+io
+re
+pdfminer.high_level
+
