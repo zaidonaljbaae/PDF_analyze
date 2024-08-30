@@ -1,6 +1,8 @@
 fitz
-PIL.Image
+PyMuPDF
 io
 re
 pdfminer.high_level
+pdfminer.six
+
 
